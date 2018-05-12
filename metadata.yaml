@@ -1,0 +1,32 @@
+_repo: The-Story-Of-The-Prophet-Jonas_27654
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Tyndale, William
+    aliases:
+    - Tyndal, William
+    - Tindall, William
+    - Tyndall, William
+    - Tindale, William
+    birthdate: 1492
+    deathdate: 1536
+    gutenberg_agent_id: '5675'
+    url: http://www.gutenberg.org/2009/agents/5675
+    wikipedia: http://en.wikipedia.org/wiki/William_Tyndale
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2008-12-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27654'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BS'
+- !lcsh 'Bible. Jonah'
+title: The Story Of The Prophet Jonas
+url: http://www.gutenberg.org/ebooks/27654
