@@ -17,6 +17,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27654#The-Story-Of-The-Prophet-Jonas
 gutenberg_issued: '2008-12-29'
 gutenberg_type: Text
 identifiers:
